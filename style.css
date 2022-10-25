@@ -12,7 +12,7 @@ body{
 
 
 
-.header{background-color: #df470b; clear:both; overflow: auto;}
+.header{background-color: hsl(355, 100%, 28%); clear:both; overflow: auto;}
 .logo{float:left; color: #e2dfebec; padding:10px; font-size: 40px;}
 .nav{ float:right; color: white;}
 
@@ -29,3 +29,5 @@ font-size: 20px ;
 
 /* Clear floats after the columns */
 .row{color: white;}
+
+    
