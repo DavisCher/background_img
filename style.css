@@ -1,18 +1,14 @@
-body{
+body{ 
     margin: 0;
-   background-image: url(ciroc.png);
+
+background-image: url(tree_nearwater.png);    
    background-size: cover;
    background-position: center center;
    background-repeat: no-repeat;
    height: 100vh;
    width: 100%;
-
-} 
-
-
-
-
-.header{background-color: hsl(355, 100%, 28%); clear:both; overflow: auto;}
+}
+.header{background-color: hsl(98, 85%, 29%); clear:both; overflow: auto;}
 .logo{float:left; color: #e2dfebec; padding:10px; font-size: 40px;}
 .nav{ float:right; color: white;}
 
@@ -29,5 +25,15 @@ font-size: 20px ;
 
 /* Clear floats after the columns */
 .row{color: white;}
-
+li{display: inline-block; 
+    padding: 20px; 
+    font-size: 20px ;
+    }
+    /*hero section */
+    .hero{ height: 400px; color: white;}
+    .hero h2{text-align: center;}
+    .hero p{text-align: center;}
+    
+    /* Clear floats after the columns */
+    .row{color: white;}
     
